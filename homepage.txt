@@ -1,0 +1,1054 @@
+<div class="w-[1440px] h-[3053px] relative overflow-hidden bg-[#ddd]">
+  <div class="w-[1701px] h-[860px]">
+    <div class="w-[1440px] h-[595px] absolute left-[-0.5px] top-[72.5px] bg-[#2d2d2d]"></div>
+    <svg
+      width="1440"
+      height="595"
+      viewBox="0 0 1440 595"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-[1440px] h-[595px]"
+      preserveAspectRatio="none"
+    >
+      <mask
+        id="mask0_3_31"
+        style="mask-type:alpha"
+        maskUnits="userSpaceOnUse"
+        x="0"
+        y="0"
+        width="1440"
+        height="595"
+      >
+        <rect width="1440" height="595" fill="#2D2D2D"></rect>
+      </mask>
+      <g mask="url(#mask0_3_31)">
+        <ellipse cx="1395" cy="501" rx="435" ry="501" fill="#929292" fill-opacity="0.15"></ellipse>
+        <ellipse
+          cx="-142.5"
+          cy="423"
+          rx="592.5"
+          ry="654"
+          fill="#929292"
+          fill-opacity="0.15"
+        ></ellipse>
+      </g>
+    </svg>
+    <div class="w-[1440px] h-[595px]">
+      <div class="w-[1440px] h-[595px] absolute left-[-0.5px] top-[72.5px] bg-[#2d2d2d]"></div>
+      <div
+        class="w-[258.83px] h-[258.83px] absolute left-[1332.5px] top-[668.52px] bg-[#f8b900]"
+      ></div>
+    </div>
+    <p
+      class="w-[896px] absolute left-[188px] top-[157px] text-[64px] font-bold text-left text-white"
+    >
+      <span class="w-[896px] text-[64px] font-bold text-left text-white"
+        >Maturita z angličtiny?</span
+      ><br /><span class="w-[896px] text-[64px] font-bold text-left text-white"
+        >BEZ STRESU A S JISTOTOU</span
+      >
+    </p>
+    <p class="w-[541px] absolute left-[188px] top-[350px] text-[32px] text-left text-white">
+      <span class="w-[541px] text-[32px] text-left text-white"
+        >Interaktivní cvičení, kompletní témata a sledování pokroku. </span
+      ><br /><span class="w-[541px] text-[32px] text-left text-white"
+        >Vše, co potřebuješ k úspěchu, na jednom místě.</span
+      >
+    </p>
+    <div class="w-[321px] h-[65px]" style="filter: drop-shadow(9px 9px 4px rgba(0,0,0,0.25));">
+      <div
+        class="w-[321px] h-[65px] absolute left-[187.5px] top-[562.5px] rounded-[20px] bg-[#f8b900]"
+      ></div>
+      <p class="absolute left-[225px] top-[581px] text-[23px] font-bold text-left text-white">
+        REGISTRACE ZDARMA
+      </p>
+    </div>
+    <div class="w-[1440px] h-[595px]">
+      <div class="w-[1440px] h-[595px] absolute left-[-0.5px] top-[72.5px] bg-[#2d2d2d]"></div>
+      <img
+        src="avatar-anglictinanastredi-1.png"
+        class="w-[1089px] h-[1089px] absolute left-[632.5px] top-[46.5px] object-none"
+      />
+    </div>
+    <div class="w-[304px] h-[304px] absolute left-[-261.5px] top-[22.46px] bg-[#f8b900]"></div>
+  </div>
+  <div class="w-[1440px] h-[73px]">
+    <div
+      class="w-[1440px] h-[73px] absolute left-[-0.5px] top-[-0.5px] bg-white"
+      style="box-shadow: 0px 4px 4px 6px rgba(0,0,0,0.36);"
+    ></div>
+    <p
+      class="w-[255px] h-[40.77px] absolute left-[278px] top-[16.44px] text-xl font-bold text-center text-black"
+    >
+      ANGLIČTINA NA STŘEDNÍ
+    </p>
+    <p
+      class="w-40 h-[13.15px] absolute left-[772px] top-[30.91px] text-base font-bold text-center text-black"
+    >
+      MATURITNÍ TÉMATA
+    </p>
+    <p
+      class="w-[105px] h-[13.15px] absolute left-[944px] top-[30.91px] text-base font-bold text-center text-black"
+    >
+      PRO UČITELE
+    </p>
+    <p
+      class="w-[106px] h-[13.15px] absolute left-[1057px] top-[30.91px] text-base font-bold text-center text-black"
+    >
+      PŘIHLÁSIT SE
+    </p>
+    <div
+      class="w-[142px] h-[21px]"
+      style="filter: drop-shadow(5px 7px 1.2999999523162842px rgba(0,0,0,0.25));"
+    >
+      <div
+        class="w-[142px] h-[21px] absolute left-[1177.5px] top-[25.5px] rounded-[5px] bg-[#f8b900]"
+      ></div>
+      <p
+        class="w-[134px] h-[14.32px] absolute left-[1182px] top-[29px] text-base font-bold text-center text-white"
+      >
+        REGISTROVAT SE
+      </p>
+    </div>
+    <svg
+      width="75"
+      height="49"
+      viewBox="0 0 75 49"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="absolute left-[187.5px] top-[11.5px]"
+      preserveAspectRatio="none"
+    >
+      <ellipse cx="37.5" cy="24.5" rx="37.5" ry="24.5" fill="#D9D9D9"></ellipse>
+    </svg>
+  </div>
+  <div class="w-[1130px] h-[491px]">
+    <div class="w-[350px] h-[491px]">
+      <div
+        class="w-[350px] h-[491px] absolute left-[154.5px] top-[703.5px] rounded-[50px] bg-[#3c3c3c]/[0.44]"
+      ></div>
+      <svg
+        width="350"
+        height="491"
+        viewBox="0 0 350 491"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[350px] h-[491px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_3_97"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="350"
+          height="491"
+        >
+          <rect width="350" height="491" rx="50" fill="#3C3C3C" fill-opacity="0.44"></rect>
+        </mask>
+        <g mask="url(#mask0_3_97)">
+          <ellipse
+            cx="57.5"
+            cy="512"
+            rx="313.5"
+            ry="347"
+            fill="#2D2D2D"
+            fill-opacity="0.62"
+          ></ellipse>
+        </g></svg
+      ><svg
+        width="120"
+        height="120"
+        viewBox="0 0 120 120"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[177.5px] top-[739.5px]"
+        preserveAspectRatio="none"
+      >
+        <circle cx="60" cy="60" r="60" fill="#2D2D2D"></circle></svg
+      ><svg
+        width="82"
+        height="47"
+        viewBox="0 0 82 47"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[196.98px] top-[777.98px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M77.1924 0.00568807C69.3909 0.331432 53.8846 1.5171 44.3121 5.82823C43.6515 6.12569 43.2771 6.65463 43.2771 7.20767V45.3197C43.2771 46.5295 45.0752 47.2941 46.5913 46.7327C56.44 43.0856 70.6835 42.0905 77.7262 41.8182C80.1308 41.725 82 40.3068 82 38.6069V3.22123C82.0014 1.36627 79.8147 -0.103242 77.1924 0.00568807ZM37.6879 5.82823C28.1168 1.5171 12.6106 0.332479 4.80904 0.00568807C2.1867 -0.103242 0 1.36627 0 3.22123V38.6079C0 40.3089 1.86923 41.7271 4.27375 41.8193C11.3193 42.0916 25.5699 43.0877 35.4186 46.7368C36.9305 47.2972 38.7229 46.5336 38.7229 45.327V7.18881C38.7229 6.63473 38.3499 6.12674 37.6879 5.82823Z"
+          fill="#F8B900"
+        ></path>
+      </svg>
+      <p
+        class="w-80 h-[100px] absolute left-[178px] top-[861px] text-[40px] font-bold text-left text-white"
+      >
+        MATURITNÍ TÉMATA
+      </p>
+      <p class="w-80 absolute left-[178px] top-[977px] text-xl text-left text-white">
+        <span class="w-80 text-xl text-left text-white"
+          >Proč ztrácet čas a nervy hledáním podkladů? </span
+        ><br /><span class="w-80 text-xl text-left text-white"
+          >Připravili jsme pro tebe všechny maturitní okruhy na jednom místě. Strukturovaně,
+          srozumitelně a připravené k okamžitému studiu.</span
+        >
+      </p>
+      <p class="absolute left-[178px] top-[1146px] text-xl font-bold text-left text-[#f8b900]">
+        Chci vědět více
+      </p>
+      <svg
+        width="56"
+        height="24"
+        viewBox="0 0 56 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[328.5px] top-[1157.5px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M55.0607 13.0607C55.6465 12.4749 55.6465 11.5251 55.0607 10.9393L45.5147 1.3934C44.9289 0.807611 43.9792 0.807611 43.3934 1.3934C42.8076 1.97919 42.8076 2.92893 43.3934 3.51472L51.8787 12L43.3934 20.4853C42.8076 21.0711 42.8076 22.0208 43.3934 22.6066C43.9792 23.1924 44.9289 23.1924 45.5147 22.6066L55.0607 13.0607ZM0 12L0 13.5L54 13.5V12V10.5L0 10.5L0 12Z"
+          fill="#F8B900"
+        ></path>
+      </svg>
+    </div>
+    <div class="w-[350px] h-[491px]">
+      <div
+        class="w-[350px] h-[491px] absolute left-[544.5px] top-[703.5px] rounded-[50px] bg-[#3c3c3c]/[0.44]"
+      ></div>
+      <svg
+        width="350"
+        height="491"
+        viewBox="0 0 350 491"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[350px] h-[491px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_3_98"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="350"
+          height="491"
+        >
+          <rect width="350" height="491" rx="50" fill="#3C3C3C" fill-opacity="0.44"></rect>
+        </mask>
+        <g mask="url(#mask0_3_98)">
+          <ellipse
+            cx="57.5"
+            cy="512"
+            rx="313.5"
+            ry="347"
+            fill="#2D2D2D"
+            fill-opacity="0.62"
+          ></ellipse>
+        </g></svg
+      ><svg
+        width="120"
+        height="120"
+        viewBox="0 0 120 120"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[567.5px] top-[739.5px]"
+        preserveAspectRatio="none"
+      >
+        <circle cx="60" cy="60" r="60" fill="#2D2D2D"></circle>
+      </svg>
+      <p
+        class="w-80 h-[100px] absolute left-[568px] top-[861px] text-[40px] font-bold text-left text-white"
+      >
+        INTERAKTIVNÍ CVÍČENÍ
+      </p>
+      <p class="w-80 absolute left-[560px] top-[977px] text-xl text-left text-white">
+        Zapomeň na nudné papíry. Procvičuj angličtinu formou kvízů s okamžitou zpětnou vazbou a
+        učením z chyb.
+      </p>
+      <p class="absolute left-[568px] top-[1146px] text-xl font-bold text-left text-[#f8b900]">
+        Chci vědět více
+      </p>
+      <svg
+        width="56"
+        height="24"
+        viewBox="0 0 56 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[718.5px] top-[1157.5px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M55.0607 13.0607C55.6465 12.4749 55.6465 11.5251 55.0607 10.9393L45.5147 1.3934C44.9289 0.807611 43.9792 0.807611 43.3934 1.3934C42.8076 1.97919 42.8076 2.92893 43.3934 3.51472L51.8787 12L43.3934 20.4853C42.8076 21.0711 42.8076 22.0208 43.3934 22.6066C43.9792 23.1924 44.9289 23.1924 45.5147 22.6066L55.0607 13.0607ZM0 12L0 13.5L54 13.5V12V10.5L0 10.5L0 12Z"
+          fill="#F8B900"
+        ></path></svg
+      ><svg
+        width="70"
+        height="52"
+        viewBox="0 0 70 52"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[592.98px] top-[773.98px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M68.0722 14.2373L61.7692 18.8585C61.1265 19.3297 60.0874 19.3297 59.4448 18.8585L44.2683 7.73137C43.6257 7.26022 43.6257 6.49836 44.2683 6.02721L50.5714 1.40593C53.1281 -0.468644 57.2846 -0.468644 59.855 1.40593L68.0722 7.43064C70.6426 9.30521 70.6426 12.3527 68.0722 14.2373ZM38.854 9.9969L2.95002 36.3212L0.0514503 48.5009C-0.345052 50.1449 1.61012 51.5684 3.85241 51.2877L20.4645 49.1525L56.3685 22.8282C57.0111 22.3571 57.0111 21.5952 56.3685 21.1241L41.192 9.9969C40.5357 9.52575 39.4966 9.52575 38.854 9.9969ZM16.9643 34.0657C16.2124 33.5143 16.2124 32.6322 16.9643 32.0808L38.02 16.6431C38.772 16.0918 39.9752 16.0918 40.7272 16.6431C41.4792 17.1945 41.4792 18.0766 40.7272 18.628L19.6715 34.0657C18.9195 34.617 17.7163 34.617 16.9643 34.0657ZM12.0286 42.4962H18.5914V46.1351L9.7726 47.2679L5.52045 44.1503L7.06545 37.6845H12.0286V42.4962Z"
+          fill="#F8B900"
+        ></path>
+      </svg>
+    </div>
+    <div class="w-[350px] h-[491px]">
+      <div
+        class="w-[350px] h-[491px] absolute left-[934.5px] top-[703.5px] rounded-[50px] bg-[#3c3c3c]/[0.44]"
+      ></div>
+      <svg
+        width="350"
+        height="491"
+        viewBox="0 0 350 491"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[350px] h-[491px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_3_102"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="350"
+          height="491"
+        >
+          <rect width="350" height="491" rx="50" fill="#3C3C3C" fill-opacity="0.44"></rect>
+        </mask>
+        <g mask="url(#mask0_3_102)">
+          <ellipse
+            cx="57.5"
+            cy="512"
+            rx="313.5"
+            ry="347"
+            fill="#2D2D2D"
+            fill-opacity="0.62"
+          ></ellipse>
+        </g></svg
+      ><svg
+        width="120"
+        height="120"
+        viewBox="0 0 120 120"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[957.5px] top-[739.5px]"
+        preserveAspectRatio="none"
+      >
+        <circle cx="60" cy="60" r="60" fill="#2D2D2D"></circle>
+      </svg>
+      <p
+        class="w-80 h-[100px] absolute left-[958px] top-[861px] text-[40px] font-bold text-left text-white"
+      >
+        SLEDOVÁNÍ POKROKU
+      </p>
+      <p class="w-80 absolute left-[958px] top-[977px] text-xl text-left text-white">
+        Měj své výsledky pod kontrolou. Náš systém ti ukáže, kde máš mezery a na co se ještě
+        zaměřit.
+      </p>
+      <p class="absolute left-[958px] top-[1146px] text-xl font-bold text-left text-[#f8b900]">
+        Chci vědět více
+      </p>
+      <svg
+        width="56"
+        height="24"
+        viewBox="0 0 56 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[1108.5px] top-[1157.5px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M55.0607 13.0607C55.6465 12.4749 55.6465 11.5251 55.0607 10.9393L45.5147 1.3934C44.9289 0.807611 43.9792 0.807611 43.3934 1.3934C42.8076 1.97919 42.8076 2.92893 43.3934 3.51472L51.8787 12L43.3934 20.4853C42.8076 21.0711 42.8076 22.0208 43.3934 22.6066C43.9792 23.1924 44.9289 23.1924 45.5147 22.6066L55.0607 13.0607ZM0 12L0 13.5L54 13.5V12V10.5L0 10.5L0 12Z"
+          fill="#F8B900"
+        ></path>
+      </svg>
+      <div class="w-[93px] h-16">
+        <svg
+          width="88"
+          height="44"
+          viewBox="0 0 88 44"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="absolute left-[974px] top-[757px]"
+          preserveAspectRatio="none"
+        >
+          <path
+            d="M43.5137 0C67.5451 0.000243688 87.0262 19.3511 87.0264 43.2217C87.0264 43.2761 87.0246 43.3304 87.0244 43.3848H77.1729C77.1731 43.3304 77.1748 43.2761 77.1748 43.2217C77.1747 24.7558 62.1039 9.78638 43.5137 9.78613C24.9232 9.78613 9.8517 24.7557 9.85156 43.2217C9.85156 43.2761 9.85325 43.3304 9.85352 43.3848H0.00195312C0.00175103 43.3304 0 43.2761 0 43.2217C0.000132833 19.351 19.4821 0 43.5137 0Z"
+            fill="#F8B900"
+          ></path></svg
+        ><svg
+          width="45"
+          height="44"
+          viewBox="0 0 45 44"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="absolute left-[1017.68px] top-[757px]"
+          preserveAspectRatio="none"
+        >
+          <path
+            d="M0.677429 0.00195312C24.6335 0.0898687 44.0259 19.4054 44.0261 43.2217C44.0261 43.2761 44.0243 43.3304 44.0241 43.3848H34.1725C34.1728 43.3304 34.1745 43.2761 34.1745 43.2217C34.1744 24.8101 19.1923 9.87593 0.677429 9.78809V0.00195312Z"
+            fill="#D9D9D9"
+          ></path></svg
+        ><svg
+          width="11"
+          height="10"
+          viewBox="0 0 11 10"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="absolute left-[1011.92px] top-[756.5px]"
+          preserveAspectRatio="none"
+        >
+          <ellipse cx="5.6774" cy="4.89305" rx="5.25443" ry="4.89305" fill="#F8B900"></ellipse></svg
+        ><svg
+          width="11"
+          height="11"
+          viewBox="0 0 11 11"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="absolute left-[1050.67px] top-[794.99px]"
+          preserveAspectRatio="none"
+        >
+          <ellipse
+            cx="5.10046"
+            cy="5.38505"
+            rx="4.92602"
+            ry="4.89305"
+            fill="#D9D9D9"
+          ></ellipse></svg
+        ><svg
+          width="10"
+          height="10"
+          viewBox="0 0 10 10"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="absolute left-[973.5px] top-[794.67px]"
+          preserveAspectRatio="none"
+        >
+          <ellipse cx="4.92602" cy="5.05882" rx="4.92602" ry="4.89305" fill="#F8B900"></ellipse>
+        </svg>
+        <p
+          class="w-[50.9px] h-[32.95px] absolute left-[993px] top-[778px] text-2xl font-bold text-left text-[#f8b900]"
+        >
+          50%
+        </p>
+        <p
+          class="w-[6.24px] h-[7.18px] absolute left-[974px] top-[811px] text-[13px] font-bold text-left text-[#d9d9d9]"
+        >
+          0
+        </p>
+        <p
+          class="absolute left-[1044px] top-[805px] text-[13px] font-bold text-left text-[#d9d9d9]"
+        >
+          100
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1440px] h-[666px]">
+    <div class="w-[1440px] h-[666px] absolute left-[-0.5px] top-[1230.5px] bg-[#f8b900]"></div>
+    <div class="w-[1440px] h-[666px]">
+      <div class="w-[1440px] h-[666px] absolute left-[-0.5px] top-[1230.5px] bg-[#f8b900]"></div>
+      <svg
+        width="582"
+        height="666"
+        viewBox="0 0 582 666"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[-382.5px] top-[1125.79px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M582 731C582 995.545 151.118 966 -16.5 966C-184.118 966 -382 340.044 -382 75.5C-382 -189.044 684.5 -114 455.5 -4.00003C226.5 106 418.027 522.247 582 731Z"
+          fill="#FFD14B"
+        ></path></svg
+      ><img
+        src="avatar-anglictinanastredi-2.png"
+        class="w-[1004px] h-[1004px] absolute left-[-185.5px] top-[1308.5px] object-none"
+      /><svg
+        width="621"
+        height="666"
+        viewBox="0 0 621 666"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[818.53px] top-[1186.75px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M1091 623.5C1091 878.932 868.038 1086 593 1086C317.962 1086 120 1051.93 120 796.5C-237 720.5 295.5 -161.5 514 -30.5001C789.038 -30.5001 1091 368.068 1091 623.5Z"
+          fill="#FFD14B"
+        ></path>
+      </svg>
+    </div>
+    <p class="absolute left-[515px] top-[1269px] text-[64px] font-bold text-center text-black">
+      NA ÚSPĚCH STAČÍ 3 KROKY
+    </p>
+    <p class="absolute left-[689px] top-[1424px] text-5xl font-bold text-center text-black">
+      ZAREGISTRUJ SE
+    </p>
+    <p class="absolute left-[733px] top-[1533px] text-5xl font-bold text-center text-black">
+      VYBER TÉMA
+    </p>
+    <p class="absolute left-[747px] top-[1642px] text-5xl font-bold text-center text-black">
+      PROCVIČUJ
+    </p>
+  </div>
+  <div class="w-[1044.95px] h-[522px]">
+    <div class="w-[360.95px] h-[376.4px]">
+      <div
+        class="w-[360.95px] h-[325.99px] absolute left-[197.5px] top-[2023.9px] rounded-[25px] bg-[#969696]"
+      ></div>
+      <svg
+        width="361"
+        height="327"
+        viewBox="0 0 361 327"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[360.95px] h-[325.99px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_18_19"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="361"
+          height="327"
+        >
+          <rect y="0.402954" width="360.95" height="325.994" rx="25" fill="#969696"></rect>
+        </mask>
+        <g mask="url(#mask0_18_19)">
+          <ellipse cx="23.1691" cy="281.684" rx="235.349" ry="239.821" fill="#797979"></ellipse>
+        </g></svg
+      ><svg
+        width="124"
+        height="124"
+        viewBox="0 0 124 124"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[327.57px] top-[1973.5px]"
+        preserveAspectRatio="none"
+      >
+        <g filter="url(#filter0_d_18_22)">
+          <circle cx="62.0687" cy="49.9965" r="49.9965" fill="#969696"></circle>
+        </g>
+        <defs>
+          <filter
+            id="filter0_d_18_22"
+            x="0.372235"
+            y="0"
+            width="123.393"
+            height="123.693"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB"
+          >
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix
+              in="SourceAlpha"
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+              result="hardAlpha"
+            ></feColorMatrix>
+            <feMorphology
+              radius="6"
+              operator="dilate"
+              in="SourceAlpha"
+              result="effect1_dropShadow_18_22"
+            ></feMorphology>
+            <feOffset dy="12"></feOffset>
+            <feGaussianBlur stdDeviation="2.85"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+            ></feColorMatrix>
+            <feBlend
+              mode="normal"
+              in2="BackgroundImageFix"
+              result="effect1_dropShadow_18_22"
+            ></feBlend>
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="effect1_dropShadow_18_22"
+              result="shape"
+            ></feBlend>
+          </filter>
+        </defs>
+      </svg>
+      <div class="w-[83.73px] h-[83.73px]">
+        <div class="absolute left-[335.7px] top-[1981.63px]"></div>
+        <img
+          src="360_f_560706812_0gnevn3tqo6ovqte0jivlwzx8fu6s2sr-1.jpeg"
+          class="w-[262.37px] h-[191.2px] absolute left-[256.85px] top-[1973.5px] object-cover"
+        />
+      </div>
+      <p
+        class="w-[156.9px] h-[34.14px] absolute left-[299.62px] top-[2082.94px] text-center text-white"
+      >
+        <span class="w-[156.9px] h-[34.14px] text-xl font-bold text-center text-white"
+          >Petra Nová</span
+        ><br /><span class="w-[156.9px] h-[34.14px] text-sm font-medium text-center text-white"
+          >Studentka</span
+        >
+      </p>
+      <p
+        class="w-[273.15px] h-[60.97px] absolute left-[241.9px] top-[2126.83px] text-2xl font-bold text-center text-[#f8b900]"
+      >
+        Didaktický test pro mě byl noční můra. Už není.
+      </p>
+      <p
+        class="w-[304.04px] h-[101.62px] absolute left-[225px] top-[2216px] text-xs font-light text-left text-white"
+      >
+        Gramatika mi nikdy nešla a představa didaktického testu plného chytáků mě děsila. Tady mi
+        konečně někdo srozumitelně vysvětlil věci, se kterými jsem bojoval celé čtyři roky na
+        střední. Prošli jsme si typové úlohy, ukázali si, na co si dát pozor, a dělali spoustu
+        cvičných testů. Najednou to všechno začalo dávat smysl. V ostrém testu jsem získal o 25 %
+        víc bodů, než v co jsem vůbec doufal
+      </p>
+    </div>
+    <div class="w-[360.95px] h-[376.4px]">
+      <div
+        class="w-[360.95px] h-[325.99px] absolute left-[881.5px] top-[2018.9px] rounded-[25px] bg-[#969696]"
+      ></div>
+      <svg
+        width="361"
+        height="327"
+        viewBox="0 0 361 327"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[360.95px] h-[325.99px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_18_32"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="361"
+          height="327"
+        >
+          <rect y="0.402954" width="360.95" height="325.994" rx="25" fill="#969696"></rect>
+        </mask>
+        <g mask="url(#mask0_18_32)">
+          <ellipse cx="23.1691" cy="281.684" rx="235.349" ry="239.821" fill="#797979"></ellipse>
+        </g></svg
+      ><svg
+        width="124"
+        height="124"
+        viewBox="0 0 124 124"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[1011.57px] top-[1968.5px]"
+        preserveAspectRatio="none"
+      >
+        <g filter="url(#filter0_d_18_35)">
+          <circle cx="62.0688" cy="49.9965" r="49.9965" fill="#969696"></circle>
+        </g>
+        <defs>
+          <filter
+            id="filter0_d_18_35"
+            x="0.372266"
+            y="0"
+            width="123.393"
+            height="123.693"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB"
+          >
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix
+              in="SourceAlpha"
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+              result="hardAlpha"
+            ></feColorMatrix>
+            <feMorphology
+              radius="6"
+              operator="dilate"
+              in="SourceAlpha"
+              result="effect1_dropShadow_18_35"
+            ></feMorphology>
+            <feOffset dy="12"></feOffset>
+            <feGaussianBlur stdDeviation="2.85"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+            ></feColorMatrix>
+            <feBlend
+              mode="normal"
+              in2="BackgroundImageFix"
+              result="effect1_dropShadow_18_35"
+            ></feBlend>
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="effect1_dropShadow_18_35"
+              result="shape"
+            ></feBlend>
+          </filter>
+        </defs>
+      </svg>
+      <div class="w-[83.73px] h-[83.73px]">
+        <div class="absolute left-[1019.7px] top-[1976.63px]"></div>
+        <img
+          src="360_f_560706812_0gnevn3tqo6ovqte0jivlwzx8fu6s2sr-1.jpeg"
+          class="w-[262.37px] h-[191.2px] absolute left-[940.85px] top-[1968.5px] object-cover"
+        />
+      </div>
+      <p
+        class="w-[156.9px] h-[34.14px] absolute left-[983.62px] top-[2077.94px] text-center text-white"
+      >
+        <span class="w-[156.9px] h-[34.14px] text-xl font-bold text-center text-white"
+          >Petra Nová</span
+        ><br /><span class="w-[156.9px] h-[34.14px] text-sm font-medium text-center text-white"
+          >Studentka</span
+        >
+      </p>
+      <p
+        class="w-[273.15px] h-[60.97px] absolute left-[925.9px] top-[2121.83px] text-2xl font-bold text-center text-[#f8b900]"
+      >
+        Didaktický test pro mě byl noční můra. Už není.
+      </p>
+      <p
+        class="w-[304.04px] h-[101.62px] absolute left-[909px] top-[2211px] text-xs font-light text-left text-white"
+      >
+        Gramatika mi nikdy nešla a představa didaktického testu plného chytáků mě děsila. Tady mi
+        konečně někdo srozumitelně vysvětlil věci, se kterými jsem bojoval celé čtyři roky na
+        střední. Prošli jsme si typové úlohy, ukázali si, na co si dát pozor, a dělali spoustu
+        cvičných testů. Najednou to všechno začalo dávat smysl. V ostrém testu jsem získal o 25 %
+        víc bodů, než v co jsem vůbec doufal
+      </p>
+    </div>
+    <div class="w-[444px] h-[463px]">
+      <div
+        class="w-[444px] h-[401px] absolute left-[491.5px] top-[1981.5px] rounded-[25px] bg-[#969696]"
+      ></div>
+      <svg
+        width="444"
+        height="401"
+        viewBox="0 0 444 401"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-[444px] h-[401px]"
+        preserveAspectRatio="none"
+      >
+        <mask
+          id="mask0_18_15"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="444"
+          height="401"
+        >
+          <rect width="444" height="401" rx="25" fill="#969696"></rect>
+        </mask>
+        <g mask="url(#mask0_18_15)">
+          <ellipse cx="28.5" cy="346" rx="289.5" ry="295" fill="#797979"></ellipse>
+        </g></svg
+      ><svg
+        width="147"
+        height="147"
+        viewBox="0 0 147 147"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[651.5px] top-[1919.5px]"
+        preserveAspectRatio="none"
+      >
+        <g filter="url(#filter0_d_18_3)">
+          <circle cx="73.5" cy="61.5" r="61.5" fill="#969696"></circle>
+        </g>
+        <defs>
+          <filter
+            id="filter0_d_18_3"
+            x="0.3"
+            y="0"
+            width="146.4"
+            height="146.7"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB"
+          >
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix
+              in="SourceAlpha"
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+              result="hardAlpha"
+            ></feColorMatrix>
+            <feMorphology
+              radius="6"
+              operator="dilate"
+              in="SourceAlpha"
+              result="effect1_dropShadow_18_3"
+            ></feMorphology>
+            <feOffset dy="12"></feOffset>
+            <feGaussianBlur stdDeviation="2.85"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix
+              type="matrix"
+              values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+            ></feColorMatrix>
+            <feBlend
+              mode="normal"
+              in2="BackgroundImageFix"
+              result="effect1_dropShadow_18_3"
+            ></feBlend>
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="effect1_dropShadow_18_3"
+              result="shape"
+            ></feBlend>
+          </filter>
+        </defs>
+      </svg>
+      <div class="w-[103px] h-[103px]">
+        <div class="absolute left-[661.5px] top-[1929.5px]"></div>
+        <img
+          src="360_f_560706812_0gnevn3tqo6ovqte0jivlwzx8fu6s2sr-1.jpeg"
+          class="w-[322.47px] h-[235px] absolute left-[564.5px] top-[1919.5px] object-cover"
+        />
+      </div>
+      <p class="w-[193px] absolute left-[617px] top-[2054px] text-center text-white">
+        <span class="w-[193px] text-xl font-bold text-center text-white">Petra Nová</span
+        ><br /><span class="w-[193px] text-sm font-medium text-center text-white">Studentka</span>
+      </p>
+      <p
+        class="w-[336px] h-[75px] absolute left-[546px] top-[2108px] text-2xl font-bold text-center text-[#f8b900]"
+      >
+        Didaktický test pro mě byl noční můra. Už není.
+      </p>
+      <p
+        class="w-[374px] h-[125px] absolute left-[532px] top-[2183px] text-base font-light text-left text-white"
+      >
+        Gramatika mi nikdy nešla a představa didaktického testu plného chytáků mě děsila. Tady mi
+        konečně někdo srozumitelně vysvětlil věci, se kterými jsem bojoval celé čtyři roky na
+        střední. Prošli jsme si typové úlohy, ukázali si, na co si dát pozor, a dělali spoustu
+        cvičných testů. Najednou to všechno začalo dávat smysl. V ostrém testu jsem získal o 25 %
+        víc bodů, než v co jsem vůbec doufal
+      </p>
+    </div>
+    <svg
+      width="103"
+      height="27"
+      viewBox="0 0 103 27"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-[103px] h-[27px]"
+      preserveAspectRatio="none"
+    >
+      <circle cx="52.5" cy="13.5" r="13.5" fill="#969696"></circle>
+      <path
+        d="M13 1C20.1797 1 26 6.8203 26 14C26 21.1797 20.1797 27 13 27C5.8203 27 0 21.1797 0 14C0 6.8203 5.8203 1 13 1ZM13 3C6.92487 3 2 7.92487 2 14C2 20.0751 6.92487 25 13 25C19.0751 25 24 20.0751 24 14C24 7.92487 19.0751 3 13 3Z"
+        fill="#969696"
+      ></path>
+      <path
+        d="M90 1C97.1797 1 103 6.8203 103 14C103 21.1797 97.1797 27 90 27C82.8203 27 77 21.1797 77 14C77 6.8203 82.8203 1 90 1ZM90 3C83.9249 3 79 7.92487 79 14C79 20.0751 83.9249 25 90 25C96.0751 25 101 20.0751 101 14C101 7.92487 96.0751 3 90 3Z"
+        fill="#969696"
+      ></path>
+    </svg>
+  </div>
+  <div class="w-[1440px] h-[130px]">
+    <div class="w-[1440px] h-[130px] absolute left-[-0.5px] top-[2471.5px] bg-[#f8b900]"></div>
+    <svg
+      width="1440"
+      height="130"
+      viewBox="0 0 1440 130"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-[1440px] h-[130px]"
+      preserveAspectRatio="none"
+    >
+      <mask
+        id="mask0_21_73"
+        style="mask-type:alpha"
+        maskUnits="userSpaceOnUse"
+        x="0"
+        y="0"
+        width="1440"
+        height="130"
+      >
+        <rect width="1440" height="130" fill="#F8B900"></rect>
+      </mask>
+      <g mask="url(#mask0_21_73)">
+        <path
+          d="M443 309C443 500.367 316.111 636 53.5 636C-209.111 636 -422 480.867 -422 289.5C-422 98.1333 -65.1114 -57.5 197.5 -57.5C460.111 -57.5 443 117.633 443 309Z"
+          fill="#FFD14B"
+        ></path>
+        <ellipse cx="1255" cy="280" rx="332" ry="387" fill="#FFD14B"></ellipse>
+      </g>
+    </svg>
+    <div
+      class="w-[406px] h-[60px] absolute left-[516.5px] top-[2506.5px] rounded-[14px] bg-[#969696]"
+    ></div>
+    <p class="absolute left-[536px] top-[2517px] text-[32px] font-bold text-left text-[#f8b900]">
+      REGISTRUJ SE ZDRAMA!
+    </p>
+    <p class="absolute left-[282px] top-[2517px] text-[32px] font-bold text-left text-[#969696]">
+      Na nic nečekej
+    </p>
+    <p
+      class="w-[436px] h-12 absolute left-[938px] top-[2517px] text-[32px] font-bold text-left text-[#969696]"
+    >
+      Zvládni maturitu levou zadní
+    </p>
+  </div>
+  <div class="w-[1440px] h-[451px]">
+    <div class="w-[1440px] h-[451px] absolute left-[-0.5px] top-[2601.5px] bg-[#969696]"></div>
+    <svg
+      width="1440"
+      height="451"
+      viewBox="0 0 1440 451"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-[1440px] h-[451px]"
+      preserveAspectRatio="none"
+    >
+      <mask
+        id="mask0_21_94"
+        style="mask-type:alpha"
+        maskUnits="userSpaceOnUse"
+        x="0"
+        y="0"
+        width="1440"
+        height="451"
+      >
+        <rect width="1440" height="451" fill="#969696"></rect>
+      </mask>
+      <g mask="url(#mask0_21_94)">
+        <circle cx="161.5" cy="587.5" r="502.5" fill="#797979"></circle>
+        <circle cx="1506.5" cy="435.5" r="502.5" fill="#797979"></circle>
+      </g>
+    </svg>
+    <div class="w-[245px] h-[232px]">
+      <svg
+        width="153"
+        height="153"
+        viewBox="0 0 153 153"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[84.5px] top-[2684.5px]"
+        preserveAspectRatio="none"
+      >
+        <circle cx="76.5" cy="76.5" r="76.5" fill="#D9D9D9"></circle>
+      </svg>
+      <p class="absolute left-[46px] top-[2846px] text-xl font-bold text-center text-white">
+        ANGLIČTINA NA STŘEDNÍ
+      </p>
+      <p class="absolute left-[62px] top-[2879px] text-base font-medium text-center text-white">
+        <span class="text-base font-medium text-center text-white">MATIRUTA Z ANGLIČTINY?</span
+        ><br /><span class="text-base font-medium text-center text-white"
+          >BEZ STRESU A S JISTOTOU</span
+        >
+      </p>
+    </div>
+    <div class="w-[678px] h-[286px]">
+      <p
+        class="w-[304px] h-[286px] absolute left-[383px] top-[2660px] text-2xl font-bold text-left text-[#f8b900]"
+      >
+        <span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Maturitní témata</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Pro učitele</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Přihlásit se</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Registrovat se</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Můj profil</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >O nás</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >O projektu</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Administrační prostředí</span
+        >
+      </p>
+      <p
+        class="w-[304px] h-[286px] absolute left-[757px] top-[2660px] text-2xl font-bold text-left text-[#f8b900]"
+      >
+        <span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]">Kontakt</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >GDPR</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Podmínky používání</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Cookies</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Obchodní podmínky</span
+        ><br /><span class="w-[304px] h-[286px] text-2xl font-bold text-left text-[#f8b900]"
+          >Zpracování osobních údajů</span
+        >
+      </p>
+    </div>
+    <div class="w-[306px] h-[294px]">
+      <svg
+        width="37"
+        height="37"
+        viewBox="0 0 37 37"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[1108.98px] top-[2669.98px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M18.5041 9.01367C13.2544 9.01367 9.01991 13.2491 9.01991 18.5C9.01991 23.7509 13.2544 27.9863 18.5041 27.9863C23.7539 27.9863 27.9883 23.7509 27.9883 18.5C27.9883 13.2491 23.7539 9.01367 18.5041 9.01367ZM18.5041 24.6674C15.1116 24.6674 12.3381 21.9015 12.3381 18.5C12.3381 15.0985 15.1033 12.3326 18.5041 12.3326C21.9049 12.3326 24.6701 15.0985 24.6701 18.5C24.6701 21.9015 21.8967 24.6674 18.5041 24.6674ZM30.5885 8.62563C30.5885 9.8558 29.5979 10.8383 28.3763 10.8383C27.1464 10.8383 26.1641 9.84754 26.1641 8.62563C26.1641 7.40372 27.1547 6.41298 28.3763 6.41298C29.5979 6.41298 30.5885 7.40372 30.5885 8.62563ZM36.87 10.8713C36.7297 7.90734 36.0528 5.28188 33.8819 3.11877C31.7193 0.955651 29.0944 0.278646 26.1311 0.130035C23.077 -0.0433449 13.923 -0.0433449 10.8689 0.130035C7.91383 0.270389 5.28896 0.947395 3.11807 3.11051C0.947184 5.27362 0.278583 7.89908 0.130006 10.863C-0.0433352 13.9178 -0.0433352 23.0739 0.130006 26.1287C0.270329 29.0927 0.947184 31.7181 3.11807 33.8812C5.28896 36.0443 7.90558 36.7214 10.8689 36.87C13.923 37.0433 23.077 37.0433 26.1311 36.87C29.0944 36.7296 31.7193 36.0526 33.8819 33.8812C36.0446 31.7181 36.7214 29.0927 36.87 26.1287C37.0433 23.0739 37.0433 13.9261 36.87 10.8713ZM32.9244 29.4064C32.2806 31.0246 31.0342 32.2713 29.4081 32.9235C26.9731 33.8895 21.195 33.6666 18.5041 33.6666C15.8132 33.6666 10.0269 33.8812 7.60017 32.9235C5.98232 32.2795 4.73592 31.0329 4.08383 29.4064C3.11807 26.9708 3.34094 21.1915 3.34094 18.5C3.34094 15.8085 3.12632 10.0209 4.08383 7.59361C4.72766 5.9754 5.97407 4.72872 7.60017 4.07648C10.0352 3.11051 15.8132 3.33343 18.5041 3.33343C21.195 3.33343 26.9813 3.11877 29.4081 4.07648C31.0259 4.72046 32.2723 5.96714 32.9244 7.59361C33.8902 10.0292 33.6673 15.8085 33.6673 18.5C33.6673 21.1915 33.8902 26.9791 32.9244 29.4064Z"
+          fill="#F8B900"
+        ></path></svg
+      ><svg
+        width="37"
+        height="37"
+        viewBox="0 0 37 37"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[1108.98px] top-[2781.98px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M33.0357 0H3.96429C2.91289 0 1.90456 0.417665 1.16111 1.16111C0.417665 1.90456 0 2.91289 0 3.96429L0 33.0357C0 34.0871 0.417665 35.0954 1.16111 35.8389C1.90456 36.5823 2.91289 37 3.96429 37H15.2997V24.4208H10.0965V18.5H15.2997V13.9873C15.2997 8.8544 18.3555 6.01911 23.0358 6.01911C25.2773 6.01911 27.6212 6.41884 27.6212 6.41884V11.4568H25.0386C22.494 11.4568 21.7003 13.0359 21.7003 14.6555V18.5H27.3808L26.4723 24.4208H21.7003V37H33.0357C34.0871 37 35.0954 36.5823 35.8389 35.8389C36.5823 35.0954 37 34.0871 37 33.0357V3.96429C37 2.91289 36.5823 1.90456 35.8389 1.16111C35.0954 0.417665 34.0871 0 33.0357 0Z"
+          fill="#F8B900"
+        ></path></svg
+      ><svg
+        width="37"
+        height="37"
+        viewBox="0 0 37 37"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        class="absolute left-[1108.98px] top-[2926.98px]"
+        preserveAspectRatio="none"
+      >
+        <path
+          d="M34.3571 0H2.6346C1.18103 0 0 1.19754 0 2.66763V34.3324C0 35.8025 1.18103 37 2.6346 37H34.3571C35.8107 37 37 35.8025 37 34.3324V2.66763C37 1.19754 35.8107 0 34.3571 0ZM11.1826 31.7143H5.69866V14.0567H11.1908V31.7143H11.1826ZM8.44062 11.6451C6.68147 11.6451 5.26094 10.2163 5.26094 8.4654C5.26094 6.71451 6.68147 5.28571 8.44062 5.28571C10.1915 5.28571 11.6203 6.71451 11.6203 8.4654C11.6203 10.2246 10.1998 11.6451 8.44062 11.6451ZM31.7391 31.7143H26.2551V23.125C26.2551 21.0768 26.2138 18.4422 23.4058 18.4422C20.5482 18.4422 20.1105 20.6721 20.1105 22.9763V31.7143H14.6266V14.0567H19.8875V16.4683H19.9618C20.6969 15.0808 22.4891 13.619 25.1567 13.619C30.7067 13.619 31.7391 17.2777 31.7391 22.0348V31.7143Z"
+          fill="#F8B900"
+        ></path>
+      </svg>
+      <p
+        class="w-[241px] h-[34px] absolute left-[1158px] top-[2672px] text-2xl font-bold text-left text-white"
+      >
+        @anglictinanastredni
+      </p>
+      <p
+        class="w-[241px] h-[34px] absolute left-[1158px] top-[2929px] text-2xl font-bold text-left text-white"
+      >
+        @anglictinanastredni
+      </p>
+      <p
+        class="w-[257px] h-[34px] absolute left-[1158px] top-[2784px] text-2xl font-bold text-left text-white"
+      >
+        Anglictina_na_stredni
+      </p>
+    </div>
+  </div>
+  <div class="w-[1440px] h-[34px] absolute left-[-1px] top-[3018px] bg-[#f8b900]"></div>
+  <p class="absolute left-[552px] top-[3028px] text-sm font-extralight text-left text-black">
+    © 2025 Angličtina na střední. Všechna práva vyhrazena.
+  </p>
+</div>
