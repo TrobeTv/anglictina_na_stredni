@@ -15,6 +15,7 @@
     <main>
         <x-homepage.hero />
         <x-homepage.icon-boxes />
+        <x-homepage.success-banner/>
     </main>
 
     {{-- footer komponenty --}}
