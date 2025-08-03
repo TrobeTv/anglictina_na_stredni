@@ -16,6 +16,7 @@
         <x-homepage.hero />
         <x-homepage.icon-boxes />
         <x-homepage.success-banner/>
+        <x-homepage.testimonials :testimonials="$testimonials" />
     </main>
 
     {{-- footer komponenty --}}

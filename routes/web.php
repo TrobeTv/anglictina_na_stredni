@@ -3,10 +3,13 @@
 use App\Livewire\Settings\Appearance;
 use App\Livewire\Settings\Password;
 use App\Livewire\Settings\Profile;
+use App\Models\Testimonial;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomepageController;
 
 Route::get('/', function () {
-    return view('welcome');
+    $testimonials = Testimonial::where('is_visible', true)->latest()->get();
+    return view('welcome', ['testimonials' => $testimonials]);
 })->name('home');
 
 Route::view('dashboard', 'dashboard')
