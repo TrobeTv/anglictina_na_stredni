@@ -17,6 +17,7 @@
         <x-homepage.icon-boxes />
         <x-homepage.success-banner/>
         <x-homepage.testimonials :testimonials="$testimonials" />
+        <x-homepage.calltoaction/>
     </main>
 
     {{-- footer komponenty --}}

@@ -3,7 +3,7 @@
 {{-- We only show the section if there are testimonials --}}
 @if ($testimonials->isNotEmpty())
 
-<section id="testimonials" aria-label="What our customers are saying" class="bg-slate-50 py-20 sm:py-32">
+<section id="testimonials" aria-label="What our customers are saying" class="bg-slate-50 py-1 sm:py-32">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-2xl md:text-center">
       <h2 class="font-bold text-3xl tracking-tight text-slate-900 sm:text-4xl">Co o nás říkají ostatní</h2>
