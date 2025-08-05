@@ -2,11 +2,13 @@
 
 namespace App\Filament\Auth;
 
+use Filament\Forms\Components\Component;
+use Filament\Forms\Components\TextInput;
 use Filament\Pages\Auth\Login;
 
 class CustomLogin extends Login
 {
-        protected function getForms(): array
+    protected function getForms(): array
     {
         return [
             'form' => $this->form(
@@ -25,10 +27,20 @@ class CustomLogin extends Login
     {
         return TextInput::make('login')
             ->label(__('Username / Email'))
-            ->email()
             ->required()
             ->autocomplete()
             ->autofocus()
             ->extraInputAttributes(['tabindex' => 1]);
+    }
+
+    protected function getCredentialsFromFormData(array $data): array
+    {
+
+        $login_type = filter_var($data['login'], FILTER_VALIDATE_EMAIL) ? 'email' : 'name';
+
+        return [
+            $login_type => $data['login'],
+            'password' => $data['password'],
+        ];
     }
 }
