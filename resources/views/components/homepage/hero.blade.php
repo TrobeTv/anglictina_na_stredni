@@ -24,10 +24,10 @@
                     Interaktivní cvičení, kompletní témata a sledování pokroku. Vše, co potřebuješ k úspěchu, na jednom místě.
                 </p>
                 {{-- Kontejner pro centrování a odsazení --}}
-                <div class="py-20 flex flex justify-start">
+                <div class="py-20 flex justify-start">
 
                     {{-- Vlastní tlačítko --}}
-                    <a href="#" class="inline-block bg-[#f8b900] text-white font-bold text-[23px] px-10 py-4 rounded-[20px] hover:bg-yellow-500 transition-colors" style="filter: drop-shadow(9px 9px 4px rgba(0,0,0,0.25));">
+                    <a href="{{ route('register') }}" class="inline-block bg-[#f8b900] text-white font-bold text-[23px] px-10 py-4 rounded-[20px] hover:bg-yellow-500 transition-colors" style="filter: drop-shadow(9px 9px 4px rgba(0,0,0,0.25));">
                         REGISTRACE ZDARMA
                     </a>
 
