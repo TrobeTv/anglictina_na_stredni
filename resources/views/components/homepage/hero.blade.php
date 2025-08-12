@@ -1,7 +1,7 @@
 <div class="w-full">
     {{-- Hlavní kontejner celé sekce. Padding nahoře a dole (pt, pb) mu dává prostor. --}}
     <div class="relative w-full bg-[#2d2d2d] overflow-hidden pt-10 pb-0 md:pt-20">
-        
+
         {{-- Dekorativní prvky v pozadí (beze změny) --}}
         <div class="absolute w-[160%] md:w-[90%] aspect-square bottom-[-80%] left-[-80%] md:bottom-[-45%] md:left-[-45%] bg-[#929292]/[0.15] rounded-full"></div>
         <div class="absolute w-[110%] md:w-[70%] aspect-square top-[-55%] right-[-55%] md:top-[-35%] md:right-[-35%] bg-[#929292]/[0.15] rounded-full"></div>

@@ -45,4 +45,4 @@ Route::get('/auth/google/callback', function () {
 require __DIR__.'/auth.php';
 
 // Redirect after registration
-public const HOME = '/dashboard'; // Change this to your desired path, e.g. '/'
+//public const HOME = '/dashboard'; // Change this to your desired path, e.g. '/'

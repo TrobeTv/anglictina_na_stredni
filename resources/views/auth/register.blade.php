@@ -50,8 +50,11 @@
         </div>
 
         <div class="mt-4">
-            <a href="{{ route('google.login') }}" class="btn btn-google w-full">
-                Login with Google
+            <a href="{{ route('google.login') }}"
+               class="flex items-center justify-center gap-2 bg-white border border-gray-300 rounded-md px-4 py-2 text-gray-700 hover:bg-gray-100 transition w-full font-semibold shadow"
+               style="text-decoration: none;">
+                <img src="https://www.svgrepo.com/show/475656/google-color.svg" alt="Google" class="w-5 h-5">
+                Přihlásit se přes Google
             </a>
         </div>
     </form>
