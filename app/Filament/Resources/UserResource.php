@@ -27,6 +27,7 @@ class UserResource extends Resource
         return $form
             ->schema([
                 Forms\Components\TextInput::make('name')
+                    ->label('Username')
                     ->required(),
                 Forms\Components\TextInput::make('email')
                     ->email()
@@ -52,6 +53,7 @@ class UserResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('name')
+                    ->label('Username')
                     ->searchable(),
                 Tables\Columns\TextColumn::make('email')
                     ->searchable(),

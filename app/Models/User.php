@@ -19,13 +19,9 @@ class User extends Authenticatable
      * @var list<string>
      */
     protected $fillable = [
-        'first_name',
-        'last_name',
-        'username',
+        'name',
         'email',
         'password',
-        // 'name', // Odstranit, protože sloupec v DB neexistuje
-        'role', // Přidáno pro roli uživatele
         'email_verified_at',
         'remember_token',
     ];
@@ -65,17 +61,11 @@ class User extends Authenticatable
             ->implode('');
     }
 
+    // Filament will use this for display
     public function getFilamentName(): string
     {
-    dd(auth()->user()); // <-- PŘIDAT TENTO ŘÁDEK
-
-    // Spojíme jméno a příjmení, ořízneme případné bílé znaky
-    $fullName = trim("{$this->first_name} {$this->last_name}");
-
-    // Pokud je výsledné jméno prázdné, vrátíme username.
-    // Pokud by i ten byl prázdný, vrátíme 'Uživatel bez jména'.
-    return $fullName ?: $this->username ?? 'Uživatel bez jména';
-}
+        return $this->name ?: 'User';
+    }
 
     /**
      * Get the user's role.
@@ -85,10 +75,10 @@ class User extends Authenticatable
         return $this->role ?? 'user'; // Vrátí 'user' pokud role není nastavena
     }
 
-    // Add this accessor to ensure Filament always gets a string for the user's name
+
+    // Add this accessor to provide a virtual "name" attribute for Filament/Eloquent
     public function getNameAttribute()
     {
-        // Adjust as needed if you want to use username or something else
         return trim("{$this->first_name} {$this->last_name}") ?: $this->username ?: 'User';
     }
 }
