@@ -1,0 +1,15 @@
+INSERT INTO regions (name, created_at, updated_at) VALUES
+('Hlavní město Praha', NOW(), NOW()),
+('Středočeský', NOW(), NOW()),
+('Jihočeský', NOW(), NOW()),
+('Plzeňský', NOW(), NOW()),
+('Karlovarský', NOW(), NOW()),
+('Ústecký', NOW(), NOW()),
+('Liberecký', NOW(), NOW()),
+('Královéhradecký', NOW(), NOW()),
+('Pardubický', NOW(), NOW()),
+('Vysočina', NOW(), NOW()),
+('Jihomoravský', NOW(), NOW()),
+('Olomoucký', NOW(), NOW()),
+('Zlínský', NOW(), NOW()),
+('Moravskoslezský', NOW(), NOW());

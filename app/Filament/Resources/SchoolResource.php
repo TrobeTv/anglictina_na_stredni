@@ -4,6 +4,7 @@ namespace App\Filament\Resources;
 
 use App\Filament\Resources\SchoolResource\Pages;
 use App\Filament\Resources\SchoolResource\RelationManagers;
+use App\Models\Region;
 use App\Models\School;
 use Filament\Forms;
 use Filament\Forms\Form;
@@ -23,9 +24,13 @@ class SchoolResource extends Resource
     {
         return $form
             ->schema([
+                Forms\Components\Select::make('region_id')
+                    ->label('Region')
+                    ->options(Region::pluck('name', 'id'))
+                    ->required(),
+                Forms\Components\TextInput::make('city')
+                    ->required(),
                 Forms\Components\TextInput::make('name')->required(),
-                Forms\Components\TextInput::make('city')->required(),
-                Forms\Components\TextInput::make('region')->required(),
                 Forms\Components\TextInput::make('type')->label('Type')->required(),
             ]);
     }
@@ -69,4 +74,5 @@ class SchoolResource extends Resource
             'edit' => Pages\EditSchool::route('/{record}/edit'),
         ];
     }
+
 }
