@@ -19,17 +19,15 @@ class User extends Authenticatable
      * @var list<string>
      */
     protected $fillable = [
-    'first_name',
-    'last_name',
-    'username',
-    'email',
-    'password',
-    // 'name' zde můžeme nechat pro případnou budoucí kompatibilitu,
-    // ale klíčové jsou ty tři řádky nad ním.
-    'role', // Přidáno pro roli uživatele
-    'name', // Pro kompatibilitu s existujícími daty
-    'email_verified_at',
-    'remember_token',
+        'first_name',
+        'last_name',
+        'username',
+        'email',
+        'password',
+        // 'name', // Odstranit, protože sloupec v DB neexistuje
+        'role', // Přidáno pro roli uživatele
+        'email_verified_at',
+        'remember_token',
     ];
 
     /**
@@ -94,3 +92,4 @@ class User extends Authenticatable
         return trim("{$this->first_name} {$this->last_name}") ?: $this->username ?: 'User';
     }
 }
+

@@ -12,6 +12,9 @@ use Filament\Tables;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
+use Filament\Forms\Components\Select;
+use Filament\Tables\Columns\TextColumn;
+use Filament\Tables\Columns\BadgeColumn;
 
 class UserResource extends Resource
 {
@@ -31,6 +34,15 @@ class UserResource extends Resource
                 Forms\Components\DateTimePicker::make('email_verified_at'),
                 Forms\Components\TextInput::make('password')
                     ->password()
+                    ->required(),
+                Select::make('role')
+                    ->label('Role')
+                    ->options([
+                        'super_admin' => 'Super Admin',
+                        'admin' => 'Admin',
+                        'teacher' => 'Teacher',
+                        'user' => 'User',
+                    ])
                     ->required(),
             ]);
     }
@@ -54,6 +66,21 @@ class UserResource extends Resource
                     ->dateTime()
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
+                BadgeColumn::make('role')
+                    ->label('Role')
+                    ->colors([
+                        'gray' => 'user', // changed from 'primary' to 'gray' for user
+                        'success' => 'teacher',
+                        'warning' => 'admin',
+                        'danger' => 'super_admin',
+                    ])
+                    ->formatStateUsing(fn ($state) => match ($state) {
+                        'super_admin' => 'Super Admin',
+                        'admin' => 'Admin',
+                        'teacher' => 'Teacher',
+                        'user' => 'User',
+                        default => ucfirst($state),
+                    }),
             ])
             ->filters([
                 //
