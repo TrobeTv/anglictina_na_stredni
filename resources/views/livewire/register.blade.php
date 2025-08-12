@@ -1,24 +1,25 @@
-<div class="min-h-screen flex items-center justify-center bg-gray-50 py-6 px-4 sm:px-6 lg:px-8">
-    <div class="max-w-md w-full space-y-8">
+<div class="flex items-center justify-center bg-gray-50 py-2 px-4 sm:px-6 lg:px-8">
+    
+    <div class="max-w-md w-full space-y-3">
         <div>
-            <h2 class="mt-6 text-center text-2xl sm:text-3xl font-extrabold text-gray-900">
+            <h2 class="mt-1 text-center text-2xl sm:text-3xl font-extrabold text-gray-900">
                 Registrace
             </h2>
-            <p class="mt-2 text-center text-sm text-gray-600">
+            <p class="mt-1 text-center text-sm text-gray-600">
                 Krok {{ $step }} ze 2
             </p>
         </div>
 
         <!-- Progress Bar -->
-        <div class="w-full bg-gray-200 rounded-full h-2.5 mb-6">
+        <div class="w-full bg-gray-200 rounded-full h-2.5 mb-4">
             <div class="bg-indigo-600 h-2.5 rounded-full transition-all duration-500 ease-in-out"
                  style="width: {{ ($step / 2) * 100 }}%"></div>
         </div>
 
         @if ($step == 1)
             <!-- Step 1: Account Information -->
-            <form wire:submit.prevent="nextStep" class="mt-8 space-y-6">
-                <div class="space-y-4">
+            <form wire:submit.prevent="nextStep" class="mt-2 space-y-4">
+                <div class="space-y-3">
                     <div>
                         <label for="username" class="block text-sm font-medium text-gray-700">
                             Uživatelské jméno
@@ -111,8 +112,8 @@
 
         @if ($step == 2)
             <!-- Step 2: Personal Information -->
-            <form wire:submit.prevent="register" class="mt-8 space-y-6">
-                <div class="space-y-4">
+            <form wire:submit.prevent="register" class="mt-2 space-y-4">
+                <div class="space-y-3">
                     <div>
                         <label for="first_name" class="block text-sm font-medium text-gray-700">
                             Jméno
